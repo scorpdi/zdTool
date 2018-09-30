@@ -1,0 +1,25 @@
+{
+  "name": "zdtool",
+  "version": "1.0.0",
+  "description": "js通用方法集合",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "zdtool"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorpdi/zdTool.git"
+  },
+  "author": "z_di",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scorpdi/zdTool/issues"
+  },
+  "homepage": "https://github.com/scorpdi/zdTool#readme"
+}
